@@ -4,221 +4,260 @@
             <blocked>1</blocked>
         </stats>
         <event_incident_typefk>61</event_incident_typefk>
-        <elapsed>3</elapsed>
+        <elapsed>7</elapsed>
         <subtype>blocked_shot</subtype>
-        <player1>24154</player1>
-        <sortorder>0</sortorder>
-        <team>10260</team>
+        <player1>31013</player1>
+        <sortorder>1</sortorder>
+        <team>9825</team>
+        <n>235</n>
+        <type>shoton</type>
+        <id>375556</id>
+    </value>
+    <value>
+        <stats>
+            <shoton>1</shoton>
+        </stats>
+        <event_incident_typefk>137</event_incident_typefk>
+        <elapsed>7</elapsed>
+        <subtype>distance</subtype>
+        <player1>30960</player1>
+        <sortorder>2</sortorder>
+        <team>9825</team>
+        <n>236</n>
+        <type>shoton</type>
+        <id>375557</id>
+    </value>
+    <value>
+        <stats>
+            <blocked>1</blocked>
+        </stats>
+        <event_incident_typefk>61</event_incident_typefk>
+        <elapsed>9</elapsed>
+        <subtype>blocked_shot</subtype>
+        <player1>26111</player1>
+        <sortorder>3</sortorder>
+        <team>9825</team>
+        <n>240</n>
+        <type>shoton</type>
+        <id>375563</id>
+    </value>
+    <value>
+        <stats>
+            <shoton>1</shoton>
+        </stats>
+        <event_incident_typefk>135</event_incident_typefk>
+        <elapsed>23</elapsed>
+        <subtype>shot</subtype>
+        <player1>36410</player1>
+        <sortorder>1</sortorder>
+        <team>9825</team>
         <n>253</n>
         <type>shoton</type>
-        <id>378828</id>
-    </value>
-    <value>
-        <stats>
-            <shoton>1</shoton>
-        </stats>
-        <event_incident_typefk>154</event_incident_typefk>
-        <elapsed>7</elapsed>
-        <subtype>header</subtype>
-        <player1>24157</player1>
-        <sortorder>2</sortorder>
-        <team>10260</team>
-        <n>258</n>
-        <type>shoton</type>
-        <id>378866</id>
-    </value>
-    <value>
-        <stats>
-            <shoton>1</shoton>
-        </stats>
-        <event_incident_typefk>153</event_incident_typefk>
-        <elapsed>14</elapsed>
-        <subtype>shot</subtype>
-        <player1>30829</player1>
-        <sortorder>1</sortorder>
-        <team>10260</team>
-        <n>274</n>
-        <type>shoton</type>
-        <id>378922</id>
-    </value>
-    <value>
-        <stats>
-            <shoton>1</shoton>
-        </stats>
-        <event_incident_typefk>153</event_incident_typefk>
-        <elapsed>14</elapsed>
-        <subtype>shot</subtype>
-        <player1>30373</player1>
-        <sortorder>2</sortorder>
-        <team>10260</team>
-        <n>279</n>
-        <type>shoton</type>
-        <id>378923</id>
-    </value>
-    <value>
-        <stats>
-            <shoton>1</shoton>
-        </stats>
-        <event_incident_typefk>137</event_incident_typefk>
-        <elapsed>17</elapsed>
-        <subtype>distance</subtype>
-        <player1>30373</player1>
-        <sortorder>3</sortorder>
-        <team>10260</team>
-        <n>272</n>
-        <type>shoton</type>
-        <id>378951</id>
-    </value>
-    <value>
-        <stats>
-            <blocked>1</blocked>
-        </stats>
-        <event_incident_typefk>61</event_incident_typefk>
-        <elapsed>43</elapsed>
-        <subtype>blocked_shot</subtype>
-        <player1>24154</player1>
-        <sortorder>0</sortorder>
-        <team>10260</team>
-        <n>296</n>
-        <type>shoton</type>
-        <id>379204</id>
-    </value>
-    <value>
-        <stats>
-            <shoton>1</shoton>
-        </stats>
-        <event_incident_typefk>137</event_incident_typefk>
-        <elapsed>50</elapsed>
-        <subtype>distance</subtype>
-        <player1>37799</player1>
-        <sortorder>0</sortorder>
-        <team>10261</team>
-        <n>302</n>
-        <type>shoton</type>
-        <id>379363</id>
-    </value>
-    <value>
-        <stats>
-            <shoton>1</shoton>
-        </stats>
-        <event_incident_typefk>149</event_incident_typefk>
-        <elapsed>58</elapsed>
-        <subtype>distance</subtype>
-        <player1>24157</player1>
-        <sortorder>0</sortorder>
-        <team>10260</team>
-        <n>310</n>
-        <type>shoton</type>
-        <id>379401</id>
-    </value>
-    <value>
-        <stats>
-            <blocked>1</blocked>
-        </stats>
-        <event_incident_typefk>61</event_incident_typefk>
-        <elapsed>58</elapsed>
-        <subtype>blocked_shot</subtype>
-        <player1>24157</player1>
-        <sortorder>4</sortorder>
-        <team>10260</team>
-        <n>311</n>
-        <type>shoton</type>
-        <id>379406</id>
-    </value>
-    <value>
-        <stats>
-            <blocked>1</blocked>
-        </stats>
-        <event_incident_typefk>61</event_incident_typefk>
-        <elapsed>60</elapsed>
-        <subtype>blocked_shot</subtype>
-        <player1>30829</player1>
-        <sortorder>0</sortorder>
-        <team>10260</team>
-        <n>314</n>
-        <type>shoton</type>
-        <id>379414</id>
+        <id>375596</id>
     </value>
     <value>
         <stats>
             <shoton>1</shoton>
         </stats>
         <event_incident_typefk>136</event_incident_typefk>
-        <elapsed>64</elapsed>
+        <elapsed>32</elapsed>
         <subtype>header</subtype>
-        <player1>24157</player1>
+        <player1>26111</player1>
         <sortorder>0</sortorder>
-        <team>10260</team>
-        <n>319</n>
+        <team>9825</team>
+        <n>267</n>
         <type>shoton</type>
-        <id>379426</id>
+        <id>375628</id>
+    </value>
+    <value>
+        <stats>
+            <shoton>1</shoton>
+        </stats>
+        <event_incident_typefk>137</event_incident_typefk>
+        <elapsed>42</elapsed>
+        <subtype>distance</subtype>
+        <player1>26181</player1>
+        <sortorder>1</sortorder>
+        <team>9825</team>
+        <n>273</n>
+        <type>shoton</type>
+        <id>375651</id>
     </value>
     <value>
         <stats>
             <blocked>1</blocked>
         </stats>
         <event_incident_typefk>61</event_incident_typefk>
-        <elapsed>75</elapsed>
+        <elapsed>44</elapsed>
         <subtype>blocked_shot</subtype>
-        <player1>30829</player1>
-        <sortorder>5</sortorder>
-        <team>10260</team>
-        <n>338</n>
+        <player1>30960</player1>
+        <sortorder>0</sortorder>
+        <team>9825</team>
+        <n>279</n>
         <type>shoton</type>
-        <id>379466</id>
+        <id>375654</id>
+    </value>
+    <value>
+        <stats>
+            <shoton>1</shoton>
+        </stats>
+        <event_incident_typefk>153</event_incident_typefk>
+        <elapsed>50</elapsed>
+        <subtype>shot</subtype>
+        <player1>27267</player1>
+        <sortorder>2</sortorder>
+        <team>8659</team>
+        <n>282</n>
+        <type>shoton</type>
+        <id>375680</id>
+    </value>
+    <value>
+        <stats>
+            <blocked>1</blocked>
+        </stats>
+        <event_incident_typefk>61</event_incident_typefk>
+        <elapsed>59</elapsed>
+        <subtype>blocked_shot</subtype>
+        <player1>36410</player1>
+        <sortorder>3</sortorder>
+        <team>9825</team>
+        <n>296</n>
+        <type>shoton</type>
+        <id>375717</id>
+    </value>
+    <value>
+        <stats>
+            <blocked>1</blocked>
+        </stats>
+        <event_incident_typefk>61</event_incident_typefk>
+        <elapsed>66</elapsed>
+        <subtype>blocked_shot</subtype>
+        <player1>31013</player1>
+        <sortorder>1</sortorder>
+        <team>9825</team>
+        <n>297</n>
+        <type>shoton</type>
+        <id>375740</id>
+    </value>
+    <value>
+        <stats>
+            <blocked>1</blocked>
+        </stats>
+        <event_incident_typefk>61</event_incident_typefk>
+        <elapsed>76</elapsed>
+        <subtype>blocked_shot</subtype>
+        <player1>31088</player1>
+        <sortorder>0</sortorder>
+        <team>8659</team>
+        <n>305</n>
+        <type>shoton</type>
+        <id>375795</id>
+    </value>
+    <value>
+        <stats>
+            <blocked>1</blocked>
+        </stats>
+        <event_incident_typefk>61</event_incident_typefk>
+        <elapsed>79</elapsed>
+        <subtype>blocked_shot</subtype>
+        <player1>30935</player1>
+        <sortorder>0</sortorder>
+        <team>9825</team>
+        <n>310</n>
+        <type>shoton</type>
+        <id>375816</id>
+    </value>
+    <value>
+        <stats>
+            <shoton>1</shoton>
+        </stats>
+        <event_incident_typefk>136</event_incident_typefk>
+        <elapsed>82</elapsed>
+        <subtype>header</subtype>
+        <player1>30843</player1>
+        <sortorder>1</sortorder>
+        <team>9825</team>
+        <n>314</n>
+        <type>shoton</type>
+        <id>375831</id>
+    </value>
+    <value>
+        <stats>
+            <blocked>1</blocked>
+        </stats>
+        <event_incident_typefk>61</event_incident_typefk>
+        <elapsed>89</elapsed>
+        <subtype>blocked_shot</subtype>
+        <player1>26181</player1>
+        <sortorder>1</sortorder>
+        <team>9825</team>
+        <n>321</n>
+        <type>shoton</type>
+        <id>375880</id>
     </value>
 </shoton>
 
 
 <possession>
 <value>
-    <comment>56</comment>
+    <comment>48</comment>
     <event_incident_typefk>352</event_incident_typefk>
-    <elapsed>25</elapsed>
+    <elapsed>21</elapsed>
     <subtype>possession</subtype>
-    <sortorder>1</sortorder>
-    <awaypos>44</awaypos>
-    <homepos>56</homepos>
-    <n>68</n>
+    <sortorder>0</sortorder>
+    <awaypos>52</awaypos>
+    <homepos>48</homepos>
+    <n>50</n>
     <type>special</type>
-    <id>379029</id>
+    <id>2497908</id>
 </value>
 <value>
-    <comment>54</comment>
-    <elapsed_plus>1</elapsed_plus>
+    <comment>53</comment>
+    <event_incident_typefk>352</event_incident_typefk>
+    <elapsed>31</elapsed>
+    <subtype>possession</subtype>
+    <sortorder>2</sortorder>
+    <awaypos>47</awaypos>
+    <homepos>53</homepos>
+    <n>78</n>
+    <type>special</type>
+    <id>2497947</id>
+</value>
+<value>
+    <comment>56</comment>
     <event_incident_typefk>352</event_incident_typefk>
     <elapsed>45</elapsed>
     <subtype>possession</subtype>
-    <sortorder>4</sortorder>
-    <awaypos>46</awaypos>
-    <homepos>54</homepos>
+    <sortorder>5</sortorder>
+    <awaypos>44</awaypos>
+    <homepos>56</homepos>
     <n>117</n>
     <type>special</type>
-    <id>379251</id>
+    <id>2498010</id>
 </value>
 <value>
-    <comment>54</comment>
+    <comment>50</comment>
     <event_incident_typefk>352</event_incident_typefk>
-    <elapsed>70</elapsed>
+    <elapsed>69</elapsed>
     <subtype>possession</subtype>
     <sortorder>0</sortorder>
-    <awaypos>46</awaypos>
-    <homepos>54</homepos>
-    <n>190</n>
+    <awaypos>50</awaypos>
+    <homepos>50</homepos>
+    <n>176</n>
     <type>special</type>
-    <id>379443</id>
+    <id>2498250</id>
 </value>
 <value>
-    <comment>55</comment>
-    <elapsed_plus>5</elapsed_plus>
+    <comment>50</comment>
+    <elapsed_plus>1</elapsed_plus>
     <event_incident_typefk>352</event_incident_typefk>
     <elapsed>90</elapsed>
     <subtype>possession</subtype>
-    <sortorder>1</sortorder>
-    <awaypos>45</awaypos>
-    <homepos>55</homepos>
-    <n>252</n>
+    <sortorder>0</sortorder>
+    <awaypos>50</awaypos>
+    <homepos>50</homepos>
+    <n>224</n>
     <type>special</type>
-    <id>379575</id>
+    <id>2498461</id>
 </value>
 </possession>

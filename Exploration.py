@@ -33,20 +33,24 @@ match_df.loc[(match_df.home_goals > match_df.away_goals), 'home_win'] = 1
 match_df.home_win = match_df.home_win.astype(bool)
 
 
-def xml_extract(series, series_id, find_str, count=pd.Series()):
+def xml_count_extract(series, series_id, count=pd.Series()):
     """ Extracts count of occurrences from the XML """
     for i in range(len(series)):
-        root = ET.fromstring(series.iloc[i])
-        values = root.findall('{}'.format(find_str))
-        counter = 0
-        for value in values:
-            if value == series_id.iloc[i]:
-                counter += 1
-        count.at[i] = counter
+        try:
+            root = ET.fromstring(series.iloc[i])
+            counter = 0
+            for value in root.findall('value'):
+                if int(value.find('team').text) == series_id.iloc[i]:
+                    counter += 1
+            count.at[i] = counter
+        except (TypeError, AttributeError) as error:
+            count.at[i] = None
+            continue
     return count
 
 
-shots = xml_extract(match_df.shots_on, match_df.home_id, './/id')
+
+shots = xml_count_extract(winner_df.shots_on, winner_df.team_id)
 
 match_df.shots_on = pd.concat((match_df, shots.rename('shots_on')), axis=1)
 match_df.shots_on = match_df.shots_on.astype(int)
